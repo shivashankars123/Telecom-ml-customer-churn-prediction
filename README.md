@@ -7,7 +7,7 @@ Tools Used: Python, pandas, scikit-learn, imbalanced-learn, and Streamlit for we
 
 
 Features and Implementation
-Model Training: Implemented Decision Tree and Random Forest classifiers for churn prediction.
+Model Training: Implemented Decision Tree and Random Forest classifiers for churn prediction,PCA
 Class Imbalance Handling: Used SMOTEENN (Synthetic Minority Oversampling Technique and Edited Nearest Neighbors) to balance the dataset and enhance model performance.
 Performance Evaluation: Evaluated models using metrics like precision, recall, F1-score, and confusion matrix.
 Web App: Developed an interactive Streamlit application allowing users to input customer data and get churn predictions with confidence scores.
